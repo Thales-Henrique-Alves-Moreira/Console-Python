@@ -1,0 +1,42 @@
+[
+    {
+        "name": "cmdSystem",
+        "functions": ["clear", "leave", "echo", "dir", "maked", "currentd", "copyd", "deld", "rend", "editf", "changed", "readf"],
+        "spelling": [["cls", "clear"], ["exit", "quit", "leave", "l"], ["print", "echo", "msg"], ["dir", "ls"], ["md", "mkdir", "mdir", "maked"], "curd", "copyd", ["deld", "rdir"], ["rend", "ren"], "editf", "cd", "readf"]
+    },
+    {
+        "name": "climate",
+        "functions": ["temperature", "weather"],
+        "spelling": [["temp", "temperature"], "weather"]
+    },
+    {
+        "name": "serverCom",
+        "functions": ["startHost", "startListen", "msg", "endHost", "stopListening"],
+        "spelling": ["host", "listen", "smsg", "ehost", "stplisten"]
+    },
+    {
+        "name": "controller",
+        "functions": ["cListen", "cStop"],
+        "spelling": ["cListen", "cStop"]
+    },
+    {
+        "name": "games",
+        "functions": ["startGame"],
+        "spelling": [["sg", "pg", "startGame", "startgame", "playgame", "playGame", "game"]]
+    },
+    {
+        "name": "location",
+        "functions": ["geoLoc", "address", "city", "ip"],
+        "spelling": [["loc", "geoLoc", "geoloc"], ["addr", "address", "cloc", "cLoc"], "city", "ip"]
+    },
+    {
+        "name": "request",
+        "functions": ["getReq"],
+        "spelling": [["get", "GET", "getReq"]]
+    },
+    {
+        "name": "config",
+        "functions": ["readConfigs", "readOneConfig", "delConfig", "setConfig", "updateConfig", "showConfig"],
+        "spelling": [["getC", "GETC", "getc", "getconfig"], ["readoneconfig", "readOneConfig", "roc", "ROC"], ["delc", "delC", "DELC", "delConfig", "delconfig", "remc"], ["setc", "SETC", "setC", "setconfig", "setConfig"], ["upc", "UPC", "updatec", "UPDATEC", "updateC", "updateConfig", "updateconfig", "UPDATECONFIG"], ["showc", "SHOWC", "showC", "showConfig", "showconfig"]]
+    }
+]

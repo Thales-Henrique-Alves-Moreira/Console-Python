@@ -1,0 +1,5 @@
+{
+    "name": "insta",
+    "functions": ["getFollowers", "getUnfollows", "trackInsta"],
+    "spelling": [["getFollowers", "getfollowers", "followers"], ["getUnfollows", "getunfollows", "unfollowers", "unfollows"], ["trackinsta", "insta", "trackInsta"]]
+}

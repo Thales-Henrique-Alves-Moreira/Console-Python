@@ -1,0 +1,5 @@
+{
+    "name": "controller",
+    "functions": ["cListen", "cStop"],
+    "spelling": ["cListen", "cStop"]
+}
