@@ -1,6 +1,0 @@
--==== Ideias ====-
-1) Fazer um config para cada plugin, assim deixando 100% do criador para decidir as configurações do seu arquivo. 
-Seria interessante deixar uma main para todos os plugins seguirem, como por exemplo a linguagem do usuário.
-
--==== Ideias realizadas ====-
-1) Deixar cada plugin separado por pasta, com o objetivo de facilitar a vida do criador de plugins
