@@ -1,5 +1,0 @@
-{
-    "name": "location",
-    "functions": ["geoLoc", "address", "city", "ip"],
-    "spelling": [["loc", "geoLoc", "geoloc"], ["addr", "address", "cloc", "cLoc"], "city", "ip"]
-}

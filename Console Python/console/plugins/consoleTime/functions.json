@@ -1,5 +1,0 @@
-{
-    "name": "consoleTime",
-    "functions": ["curtime", "curdate", "curdatetime"],
-    "spelling": [["time", "curtime"], ["date", "curdate"], ["datetime", "dt", "curdatetime"]]
-}

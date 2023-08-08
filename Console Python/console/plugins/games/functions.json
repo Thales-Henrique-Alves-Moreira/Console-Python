@@ -1,5 +1,0 @@
-{
-    "name": "games",
-    "functions": ["startGame"],
-    "spelling": [["sg", "pg", "startGame", "startgame", "playgame", "playGame", "game"]]
-}

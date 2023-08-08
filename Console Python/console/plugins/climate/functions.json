@@ -1,5 +1,0 @@
-{
-    "name": "climate",
-    "functions": ["temperature", "weather"],
-    "spelling": [["temp", "temperature"], "weather"]
-}
