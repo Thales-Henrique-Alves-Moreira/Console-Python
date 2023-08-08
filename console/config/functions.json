@@ -1,0 +1,5 @@
+{
+    "name": "config",
+    "functions": ["readAllConfigs", "readModuleConfig", "delConfig", "setConfig", "updateConfig", "showConfig"],
+    "spelling": [["getC", "GETC", "getc", "getconfig"], ["readoneconfig", "readOneConfig", "roc", "ROC"], ["delc", "delC", "DELC", "delConfig", "delconfig", "remc"], ["setc", "SETC", "setC", "setconfig", "setConfig"], ["upc", "UPC", "updatec", "UPDATEC", "updateC", "updateConfig", "updateconfig", "UPDATECONFIG"], ["showc", "SHOWC", "showC", "showConfig", "showconfig"]]
+}

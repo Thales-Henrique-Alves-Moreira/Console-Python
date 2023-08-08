@@ -1,0 +1,20 @@
+{
+    "name": "cmdSystem",
+    "functions": ["clear", "leave", "echo", "dir", "maked", "currentd", "copyd", "deld", "rend", "editf", "changed", "readf", "printModules", "cmd"],
+    "spelling": [["cls", "clear"],
+     ["exit", "quit", "leave", "l"],
+      ["print", "echo", "msg"],
+       ["dir", "ls"],
+        ["md", "mkdir", "mdir", "maked"],
+         "curd",
+          "copyd",
+           ["deld", "rdir"],
+            ["rend", "ren"],
+             "editf",
+              "cd",
+               "readf",
+               ["modules", "printModules", "PM"],
+               "cmd"
+    ]
+
+}

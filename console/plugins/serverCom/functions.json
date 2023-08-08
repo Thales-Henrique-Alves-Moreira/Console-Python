@@ -1,0 +1,5 @@
+{
+    "name": "serverCom",
+    "functions": ["startHost", "startListen", "msg", "endHost", "stopListening"],
+    "spelling": ["host", "listen", "smsg", "ehost", "stplisten"]
+}
