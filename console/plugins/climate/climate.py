@@ -1,9 +1,6 @@
 from .utils.location import location
 from .utils.request import request
 
-#tokenClimaTempo = "28f66a963924c3d937d65388a89cf207"
-#tokenOpenWeather = "177c3c6d67f5f160d5dde5f0fbad2969"
-
 def temperature(commandLine):
     temp, feelsLike, tempMin, tempMax = climate().getTemp()
 
@@ -18,7 +15,7 @@ def weather(commandLine):
 class climate(location, request):
     def __init__(self):
         super().__init__()
-        self.TOKEN = "177c3c6d67f5f160d5dde5f0fbad2969"
+        self.TOKEN = "token"
         self.location = self.getGeoLocation().split(',')
 
         self.getInfo()
